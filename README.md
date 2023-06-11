@@ -2,8 +2,6 @@
 
 Note app (Both frontend and backend) created with Flutter and Firebase.
 
-[![Say Thanks!]
-
 ## Show some :heart: and star the repo to support the project.
 
 **Complete UI Contains:**
@@ -15,9 +13,6 @@ Note app (Both frontend and backend) created with Flutter and Firebase.
 ► Appearance setting
 ► Add note screen
 ► Edit note screen
-
-## Note
-This repository is still under development and I will continue to add more features to it.
 
 ## Features
 
